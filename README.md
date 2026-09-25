@@ -1,14 +1,17 @@
-# Sistema de Loja - FB Moda Feminina
+# 🛍️ Sistema de Loja - FB Moda Feminina
 
-Projeto desenvolvido durante meus estudos de Análise e Desenvolvimento de Sistemas.
+Projeto de estudo desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas.
 
-## Tecnologias utilizadas
+O objetivo foi praticar os conhecimentos de HTML, CSS e JavaScript criando um sistema básico para gerenciamento de uma loja.
+
+## 💻 Tecnologias utilizadas
 
 - HTML
 - CSS
 - JavaScript
+- LocalStorage
 
-## Funcionalidades
+## 📦 Funcionalidades
 
 - Cadastro de produtos
 - Controle de estoque
@@ -17,7 +20,12 @@ Projeto desenvolvido durante meus estudos de Análise e Desenvolvimento de Siste
 - Controle do caixa
 - Armazenamento dos produtos no navegador
 
-## Objetivo
+## 📸 Imagem do projeto
 
-Praticar os conhecimentos aprendidos durante o curso e desenvolver
-um sistema simples para gerenciamento de uma loja.
+![Sistema de Loja](sistema-loja.png)
+
+## 🎓 Sobre o projeto
+
+Este projeto foi desenvolvido como parte dos meus estudos em Análise e Desenvolvimento de Sistemas.
+
+Estou no processo de aprendizagem e pretendo continuar melhorando o sistema e adicionando novas funcionalidades.
